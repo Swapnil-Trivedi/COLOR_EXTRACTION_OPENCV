@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596545876 source:/home/swapnil/Desktop/c++/COLOR_DETECTION/main.cpp
+	<opencv2/opencv.hpp>
+
+1596542985 source:/home/swapnil/Desktop/c++/COLOR_DETECTION/red_colour_images.cpp
+
