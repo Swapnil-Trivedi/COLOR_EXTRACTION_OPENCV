@@ -13,4 +13,8 @@ Red color is opted for the demonstration.
 ![](/COLOR_DETECTION/result2.png)
 ![](/COLOR_DETECTION/result8.png)
 
+#### The Video Version of the Project can extract Red color from any video even in real time 
+##### Results for which are here
+![](/COLOR_DETECTION_VIDEO/result1.png)
+![](/COLOR_DETECTION_VIDEO/result3.png)
 
