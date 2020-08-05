@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1596637458 source:/home/swapnil/Desktop/c++/COLOR_DETECTION_VIDEO/main.cpp
+	<opencv2/opencv.hpp>
+
